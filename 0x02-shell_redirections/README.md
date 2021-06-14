@@ -1,0 +1,1 @@
+Shell standard inputs and outputs redirections
